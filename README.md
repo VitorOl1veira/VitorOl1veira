@@ -1,7 +1,7 @@
 - 👋 eai, esse aqui é meu perfil no GitHub, espero que gostem!
 - 👀 Atualmente eu to tentando aprender mais sobre programação web
 - 😎 Busco me tornar um Desenvolvedor Front-End
-- 🌱 Curso Analise e Desenvolvimento de Sistemas na UNIFAAT Atibaia
+- 🌱 Cursando Analise e Desenvolvimento de Sistemas na UNIFAAT Atibaia
 
 ##
 
